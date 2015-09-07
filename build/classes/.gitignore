@@ -1,0 +1,8 @@
+/applicationContext-mvc.xml
+/applicationContext.xml
+/ehcache.xml
+/gslab.properties
+/log4j.properties
+/net/
+/persistence.xml
+/ForumFilter.class
